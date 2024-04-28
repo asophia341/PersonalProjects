@@ -1,0 +1,61 @@
+11/07/22 18:08
+
+Problem 1 (5 points):
+AttributeError: module 'numpy' has no attribute 'arrange'
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (10 points):
+TypeError: object of type 'NoneType' has no len()
+
+Problem 4 (10 points):
+AttributeError: module 'numpy' has no attribute 'arrange'
+
+Problems 5-6 (15 points):
+Nothing returned
+Nothing returned
+Nothing returned
+Score += 0
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 10/50 = 20.0%
+
+
+Comments:
+	Something went wrong, let us know what we can do to help
+
+-------------------------------------------------------------------------------
+
+11/10/22 09:15
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (10 points):
+Score += 10
+
+Problems 5-6 (15 points):
+Score += 15
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 50/50 = 100.0%
+
+Excellent!
+
+
+Comments:
+	Great work
+
+-------------------------------------------------------------------------------
+
