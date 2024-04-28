@@ -1,0 +1,2 @@
+This project combines the Metropolis Hastings Monte Carlo (MCMC) algorithm with thermodynamic simulations. I started my explorations of this idea in my mathematical modeling class and had a chance to expand on this in my Statistical Mechanics Thermodynamic class, when we talked about the Ising model. This model is a 2D model can simulate molecules in phase transitions and charges of atoms in ferromagnetism. I was able to simulate a MCMC Ising model in Python to explore how MCMC works, and then directly simulate it in a Mathematica notebook. 
+
